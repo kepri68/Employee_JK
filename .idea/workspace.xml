@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="96b5a26b-18c0-4671-b227-cdd2d4c24603" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/employee/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/employee/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/employee/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/employee/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/employee/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/employee/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/employee/view/EmployeeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/employee/view/EmployeeView.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/controller/EmployeeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="320">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/database/EmployeeDatabase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/service/EmployeeService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -287,12 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563703583938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tworzenie nowych pracowników przez urzytkownika oraz ich wyświetlanie">
+      <created>1563708168198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563708168198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1431" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -355,7 +357,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tworzenie projektu, klas i metod" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tworzenie projektu, klas i metod" />
+    <MESSAGE value="Tworzenie nowych pracowników przez urzytkownika oraz ich wyświetlanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tworzenie nowych pracowników przez urzytkownika oraz ich wyświetlanie" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/service/EmployeeUtils.java">
@@ -382,7 +385,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/database/EmployeeDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -402,7 +405,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/service/EmployeeService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -431,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/employee/controller/EmployeeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="320">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
